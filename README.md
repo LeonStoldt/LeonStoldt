@@ -16,11 +16,9 @@
 
 ---
 
+### Recent activity:
+
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#160](https://github.com/docker/awesome-compose/pull/160) in [docker/awesome-compose](https://github.com/docker/awesome-compose)
-2. ❗️ Opened issue [#159](https://github.com/docker/awesome-compose/issues/159) in [docker/awesome-compose](https://github.com/docker/awesome-compose)
-3. 🗣 Commented on [#2118](https://github.com/tutao/tutanota/issues/2118) in [tutao/tutanota](https://github.com/tutao/tutanota)
-4. 🗣 Commented on [#2118](https://github.com/tutao/tutanota/issues/2118) in [tutao/tutanota](https://github.com/tutao/tutanota)
 <!--END_SECTION:activity-->
 
 ---
