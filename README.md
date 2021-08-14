@@ -5,6 +5,9 @@
 - 🔭 I’m currently working on my home lab and expanding my selfhosted services
 - 🌱 I’m currently learning a lot about hosting and security
 - 👯 I’m looking to collaborate on more open source projects
+- 📃 certifications:
+  - 👨‍🎓 Bachelor of Science (Applied Computer Science)
+  - 🦌 Certified Vaadin 14 developer
 
 #### Connect with me:
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)][mail]
@@ -19,10 +22,6 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/Ileriayo/markdown-badges/issues/182) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-2. 💪 Opened PR [#183](https://github.com/Ileriayo/markdown-badges/pull/183) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-3. ❗️ Opened issue [#182](https://github.com/Ileriayo/markdown-badges/issues/182) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-4. 🗣 Commented on [#180](https://github.com/Ileriayo/markdown-badges/issues/180) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 <!--END_SECTION:activity-->
 
 ---
@@ -32,6 +31,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Vaadin](https://img.shields.io/badge/vaadin-%2300B4F0.svg?style=for-the-badge&logo=vaadin&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
