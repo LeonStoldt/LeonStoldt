@@ -134,6 +134,8 @@
 
 ### Support
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)][support]
+![Visitors count](https://shields-io-visitor-counter.herokuapp.com/badge?page=LeonStoldt.LeonStoldt&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+
 
 [xing]: https://www.xing.com/profile/Leon_Stoldt
 [mail]: mailto:contact@leon-stoldt.de
