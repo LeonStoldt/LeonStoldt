@@ -22,11 +22,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/Ileriayo/markdown-badges/issues/182) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-2. 💪 Opened PR [#183](https://github.com/Ileriayo/markdown-badges/pull/183) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-3. ❗️ Opened issue [#182](https://github.com/Ileriayo/markdown-badges/issues/182) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-4. 🗣 Commented on [#180](https://github.com/Ileriayo/markdown-badges/issues/180) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-5. 💪 Opened PR [#181](https://github.com/Ileriayo/markdown-badges/pull/181) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+1. 💪 Opened PR [#234](https://github.com/Ileriayo/markdown-badges/pull/234) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+2. 🎉 Merged PR [#1](https://github.com/LeonStoldt/markdown-badges/pull/1) in [LeonStoldt/markdown-badges](https://github.com/LeonStoldt/markdown-badges)
+3. 💪 Opened PR [#1](https://github.com/LeonStoldt/markdown-badges/pull/1) in [LeonStoldt/markdown-badges](https://github.com/LeonStoldt/markdown-badges)
+4. 🗣 Commented on [#233](https://github.com/Ileriayo/markdown-badges/issues/233) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+5. 🗣 Commented on [#230](https://github.com/Ileriayo/markdown-badges/issues/230) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 <!--END_SECTION:activity-->
 
 ---
