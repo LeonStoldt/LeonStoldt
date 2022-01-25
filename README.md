@@ -23,7 +23,7 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 🤝 Became collaborator on [LeonStoldt/go-mvn](https://github.com/LeonStoldt/go-mvn)
-2. 🔱 Forked [LeonStoldt/mvnparser](https://github.com/LeonStoldt/mvnparser) from [creekorful/mvnparser](https://github.com/creekorful/mvnparser)
+2. ✌️ Released [Docker Push Container Workflow](https://github.com/LeonStoldt/ghostfolio/releases/tag/v1.85.1) in [LeonStoldt/ghostfolio](https://github.com/LeonStoldt/ghostfolio)
 3. ⭐ Starred [monitoror/monitoror](https://github.com/monitoror/monitoror)
 4. ✌️ Released [Docker Push Container Workflow](https://github.com/LeonStoldt/ghostfolio/releases/tag/v1.85.1) in [LeonStoldt/ghostfolio](https://github.com/LeonStoldt/ghostfolio)
 5. 🔱 Forked [LeonStoldt/ghostfolio](https://github.com/LeonStoldt/ghostfolio) from [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
