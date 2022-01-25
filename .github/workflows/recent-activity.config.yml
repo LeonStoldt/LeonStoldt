@@ -5,6 +5,7 @@ settings:
   readme_file: "./README.md"
   disabled_events:
     - "create_repo"
+    - "fork_repo"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+01:00"
