@@ -21,13 +21,12 @@
 
 ### Recent activity:
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#234](https://github.com/Ileriayo/markdown-badges/pull/234) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 2. 🎉 Merged PR [#1](https://github.com/LeonStoldt/markdown-badges/pull/1) in [LeonStoldt/markdown-badges](https://github.com/LeonStoldt/markdown-badges)
 3. 💪 Opened PR [#1](https://github.com/LeonStoldt/markdown-badges/pull/1) in [LeonStoldt/markdown-badges](https://github.com/LeonStoldt/markdown-badges)
 4. 🗣 Commented on [#233](https://github.com/Ileriayo/markdown-badges/issues/233) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 5. 🗣 Commented on [#230](https://github.com/Ileriayo/markdown-badges/issues/230) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-<!--END_SECTION:activity-->
 
 ---
 
