@@ -23,8 +23,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:end-->
-
 ---
 
 ### Languages and Frameworks
