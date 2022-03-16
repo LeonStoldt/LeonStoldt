@@ -22,7 +22,8 @@
 ### Recent activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [LeonStoldt/go-mvn](https://github.com/LeonStoldt/go-mvn)
+1. 💬 Commented on [#5](https://github.com/P3R-CO/openrgb-container/issues/5#issuecomment-1068547462) in [P3R-CO/openrgb-container](https://github.com/P3R-CO/openrgb-container)
+2. 🤝 Became collaborator on [LeonStoldt/go-mvn](https://github.com/LeonStoldt/go-mvn)
 <!--RECENT_ACTIVITY:end-->
 
 ---
