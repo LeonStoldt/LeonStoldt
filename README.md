@@ -22,11 +22,11 @@
 ### Recent activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#928](https://github.com/ghostfolio/ghostfolio/issues/928#issuecomment-1133764345) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-2. 💬 Commented on [#928](https://github.com/ghostfolio/ghostfolio/issues/928#issuecomment-1133749694) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. ✌️ Released [1.150.0](https://github.com/LeonStoldt/ghostfolio/releases/tag/1.150.0) in [LeonStoldt/ghostfolio](https://github.com/LeonStoldt/ghostfolio)
-4. 🎉 Merged PR [#2](https://github.com/LeonStoldt/ghostfolio/pull/2) in [LeonStoldt/ghostfolio](https://github.com/LeonStoldt/ghostfolio)
-5. 💪 Opened PR [#2](https://github.com/LeonStoldt/ghostfolio/pull/2) in [LeonStoldt/ghostfolio](https://github.com/LeonStoldt/ghostfolio)
+1. ❗️ Opened issue [#942](https://github.com/ghostfolio/ghostfolio/issues/942) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. 💬 Commented on [#928](https://github.com/ghostfolio/ghostfolio/issues/928#issuecomment-1133995177) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+3. 💬 Commented on [#928](https://github.com/ghostfolio/ghostfolio/issues/928#issuecomment-1133987854) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+4. 💬 Commented on [#928](https://github.com/ghostfolio/ghostfolio/issues/928#issuecomment-1133764345) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+5. 💬 Commented on [#928](https://github.com/ghostfolio/ghostfolio/issues/928#issuecomment-1133749694) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 <!--RECENT_ACTIVITY:end-->
 
 ---
