@@ -22,11 +22,11 @@
 ### Recent activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#943](https://github.com/ghostfolio/ghostfolio/pull/943#issuecomment-1136324192) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-2. 💬 Commented on [#943](https://github.com/ghostfolio/ghostfolio/pull/943#discussion_r880844998) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. 💬 Commented on [#946](https://github.com/ghostfolio/ghostfolio/pull/946#issuecomment-1135208280) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-4. ❗️ Opened issue [#942](https://github.com/ghostfolio/ghostfolio/issues/942) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-5. 💬 Commented on [#928](https://github.com/ghostfolio/ghostfolio/issues/928#issuecomment-1133995177) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+1. 💬 Commented on [#928](https://github.com/ghostfolio/ghostfolio/issues/928#issuecomment-1140051666) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. 💪 Opened PR [#369](https://github.com/Ileriayo/markdown-badges/pull/369) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+3. 🎉 Merged PR [#2](https://github.com/LeonStoldt/markdown-badges/pull/2) in [LeonStoldt/markdown-badges](https://github.com/LeonStoldt/markdown-badges)
+4. 💪 Opened PR [#2](https://github.com/LeonStoldt/markdown-badges/pull/2) in [LeonStoldt/markdown-badges](https://github.com/LeonStoldt/markdown-badges)
+5. 💬 Commented on [#943](https://github.com/ghostfolio/ghostfolio/pull/943#issuecomment-1136324192) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 <!--RECENT_ACTIVITY:end-->
 
 ---
