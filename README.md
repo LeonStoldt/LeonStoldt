@@ -22,11 +22,11 @@
 ### Recent activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#985](https://github.com/ghostfolio/ghostfolio/pull/985#issuecomment-1146793229) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-2. 💬 Commented on [#942](https://github.com/ghostfolio/ghostfolio/issues/942#issuecomment-1146789903) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. 💪 Opened PR [#985](https://github.com/ghostfolio/ghostfolio/pull/985) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-4. 💬 Commented on [#928](https://github.com/ghostfolio/ghostfolio/issues/928#issuecomment-1140051666) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-5. 💪 Opened PR [#369](https://github.com/Ileriayo/markdown-badges/pull/369) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+1. ❌ Closed PR [#985](https://github.com/ghostfolio/ghostfolio/pull/985) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. 💬 Commented on [#985](https://github.com/ghostfolio/ghostfolio/pull/985#issuecomment-1147605979) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+3. 💬 Commented on [#985](https://github.com/ghostfolio/ghostfolio/pull/985#issuecomment-1146793229) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+4. 💬 Commented on [#942](https://github.com/ghostfolio/ghostfolio/issues/942#issuecomment-1146789903) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+5. 💪 Opened PR [#985](https://github.com/ghostfolio/ghostfolio/pull/985) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 <!--RECENT_ACTIVITY:end-->
 
 ---
