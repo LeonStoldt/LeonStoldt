@@ -22,11 +22,11 @@
 ### Recent activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [LeonStoldt/Unraid-Community-Applications](https://github.com/LeonStoldt/Unraid-Community-Applications)
-2. 💬 Commented on [#985](https://github.com/ghostfolio/ghostfolio/pull/985#issuecomment-1173066809) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. ❌ Closed PR [#985](https://github.com/ghostfolio/ghostfolio/pull/985) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-4. 💬 Commented on [#985](https://github.com/ghostfolio/ghostfolio/pull/985#issuecomment-1147605979) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-5. 💬 Commented on [#985](https://github.com/ghostfolio/ghostfolio/pull/985#issuecomment-1146793229) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+1. ❗️ Opened issue [#18](https://github.com/codestickers/codestickers-java/issues/18) in [codestickers/codestickers-java](https://github.com/codestickers/codestickers-java)
+2. ⬆️ Pushed 1 commit(s) to [LeonStoldt/Unraid-Community-Applications](https://github.com/LeonStoldt/Unraid-Community-Applications)
+3. 💬 Commented on [#985](https://github.com/ghostfolio/ghostfolio/pull/985#issuecomment-1173066809) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+4. ❌ Closed PR [#985](https://github.com/ghostfolio/ghostfolio/pull/985) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+5. 💬 Commented on [#985](https://github.com/ghostfolio/ghostfolio/pull/985#issuecomment-1147605979) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 <!--RECENT_ACTIVITY:end-->
 
 ---
