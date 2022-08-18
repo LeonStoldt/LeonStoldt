@@ -22,11 +22,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/NickLiffen/ghas-enablement/pull/87) in [NickLiffen/ghas-enablement](https://github.com/NickLiffen/ghas-enablement)
-2. ❗️ Opened issue [#18](https://github.com/codestickers/codestickers-java/issues/18) in [codestickers/codestickers-java](https://github.com/codestickers/codestickers-java)
-3. 🗣 Commented on [#985](https://github.com/ghostfolio/ghostfolio/issues/985) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-4. ❌ Closed PR [#985](https://github.com/ghostfolio/ghostfolio/pull/985) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-5. 🗣 Commented on [#985](https://github.com/ghostfolio/ghostfolio/issues/985) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+1. 💪 Opened PR [#100](https://github.com/GoogleCloudPlatform/gcr-cleaner/pull/100) in [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner)
+2. 💪 Opened PR [#87](https://github.com/NickLiffen/ghas-enablement/pull/87) in [NickLiffen/ghas-enablement](https://github.com/NickLiffen/ghas-enablement)
+3. ❗️ Opened issue [#18](https://github.com/codestickers/codestickers-java/issues/18) in [codestickers/codestickers-java](https://github.com/codestickers/codestickers-java)
+4. 🗣 Commented on [#985](https://github.com/ghostfolio/ghostfolio/issues/985) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+5. ❌ Closed PR [#985](https://github.com/ghostfolio/ghostfolio/pull/985) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 <!--END_SECTION:activity-->
 
 ---
