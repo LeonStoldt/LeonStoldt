@@ -1,6 +1,7 @@
 [![ghostfolio logo](https://avatars.githubusercontent.com/u/82473144?s=200)](https://ghostfol.io/)
 # [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 > Ghostfolio empowers busy people to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
+- Mentioned in official [Unraid](https://unraid.net/) Newsletter - [Community Apps Monthly Spotlight](https://us18.campaign-archive.com/?u=4ce73a4dbebfb261481909068&id=a7074b61ba)
 
 #### Contributions:
 - Initialization and Development of the [Ghostfolio Community App](https://unraid.net/community/apps?q=ghostfolio) in the Unraid Community Store
