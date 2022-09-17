@@ -22,11 +22,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1251](https://github.com/ghostfolio/ghostfolio/issues/1251) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-2. 🗣 Commented on [#100](https://github.com/GoogleCloudPlatform/gcr-cleaner/issues/100) in [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner)
-3. 💪 Opened PR [#100](https://github.com/GoogleCloudPlatform/gcr-cleaner/pull/100) in [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner)
-4. 💪 Opened PR [#87](https://github.com/NickLiffen/ghas-enablement/pull/87) in [NickLiffen/ghas-enablement](https://github.com/NickLiffen/ghas-enablement)
-5. ❗️ Opened issue [#18](https://github.com/codestickers/codestickers-java/issues/18) in [codestickers/codestickers-java](https://github.com/codestickers/codestickers-java)
+1. 🗣 Commented on [#1259](https://github.com/ghostfolio/ghostfolio/issues/1259) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. 🗣 Commented on [#1251](https://github.com/ghostfolio/ghostfolio/issues/1251) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+3. 🗣 Commented on [#100](https://github.com/GoogleCloudPlatform/gcr-cleaner/issues/100) in [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner)
+4. 💪 Opened PR [#100](https://github.com/GoogleCloudPlatform/gcr-cleaner/pull/100) in [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner)
+5. 💪 Opened PR [#87](https://github.com/NickLiffen/ghas-enablement/pull/87) in [NickLiffen/ghas-enablement](https://github.com/NickLiffen/ghas-enablement)
 <!--END_SECTION:activity-->
 
 ---
