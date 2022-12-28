@@ -8,6 +8,7 @@
 - 📃 certifications:
   - 👨‍🎓 Bachelor of Science (Applied Computer Science)
   - 🦌 Certified Vaadin 14 developer
+  - <details><summary>🎄 Advent of Cyber 2022 😉</summary><img src="THM-AoC-22-Certificate.png" alt="Advent of Cyber 2022" width="700"/></details>
 
 #### Connect with me:
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)][mail]
