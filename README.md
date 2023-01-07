@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1395](https://github.com/ghostfolio/ghostfolio/issues/1395) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-2. 🗣 Commented on [#11](https://github.com/cbuschka/setup-tfvm/issues/11) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
+1. 💪 Opened PR [#41](https://github.com/cbuschka/tfvm/pull/41) in [cbuschka/tfvm](https://github.com/cbuschka/tfvm)
+2. 💪 Opened PR [#40](https://github.com/cbuschka/tfvm/pull/40) in [cbuschka/tfvm](https://github.com/cbuschka/tfvm)
 3. 🗣 Commented on [#1395](https://github.com/ghostfolio/ghostfolio/issues/1395) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-4. 🗣 Commented on [#100](https://github.com/GoogleCloudPlatform/gcr-cleaner/issues/100) in [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner)
-5. 💪 Opened PR [#100](https://github.com/GoogleCloudPlatform/gcr-cleaner/pull/100) in [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner)
+4. 🗣 Commented on [#11](https://github.com/cbuschka/setup-tfvm/issues/11) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
+5. 🗣 Commented on [#1395](https://github.com/ghostfolio/ghostfolio/issues/1395) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 <!--END_SECTION:activity-->
 
 ---
