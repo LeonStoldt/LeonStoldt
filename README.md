@@ -23,10 +23,10 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/cbuschka/tfvm/pull/41) in [cbuschka/tfvm](https://github.com/cbuschka/tfvm)
-2. 💪 Opened PR [#40](https://github.com/cbuschka/tfvm/pull/40) in [cbuschka/tfvm](https://github.com/cbuschka/tfvm)
-3. 🗣 Commented on [#1395](https://github.com/ghostfolio/ghostfolio/issues/1395) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-4. 🗣 Commented on [#11](https://github.com/cbuschka/setup-tfvm/issues/11) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
+1. 💪 Opened PR [#1596](https://github.com/ghostfolio/ghostfolio/pull/1596) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. 💪 Opened PR [#1595](https://github.com/ghostfolio/ghostfolio/pull/1595) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+3. 💪 Opened PR [#41](https://github.com/cbuschka/tfvm/pull/41) in [cbuschka/tfvm](https://github.com/cbuschka/tfvm)
+4. 💪 Opened PR [#40](https://github.com/cbuschka/tfvm/pull/40) in [cbuschka/tfvm](https://github.com/cbuschka/tfvm)
 5. 🗣 Commented on [#1395](https://github.com/ghostfolio/ghostfolio/issues/1395) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 <!--END_SECTION:activity-->
 
