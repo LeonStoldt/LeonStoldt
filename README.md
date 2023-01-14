@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1596](https://github.com/ghostfolio/ghostfolio/pull/1596) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-2. 💪 Opened PR [#1595](https://github.com/ghostfolio/ghostfolio/pull/1595) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. 💪 Opened PR [#41](https://github.com/cbuschka/tfvm/pull/41) in [cbuschka/tfvm](https://github.com/cbuschka/tfvm)
-4. 💪 Opened PR [#40](https://github.com/cbuschka/tfvm/pull/40) in [cbuschka/tfvm](https://github.com/cbuschka/tfvm)
-5. 🗣 Commented on [#1395](https://github.com/ghostfolio/ghostfolio/issues/1395) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+1. 💪 Opened PR [#380](https://github.com/bubuntux/nordvpn/pull/380) in [bubuntux/nordvpn](https://github.com/bubuntux/nordvpn)
+2. 🎉 Merged PR [#1](https://github.com/LeonStoldt/nordvpn/pull/1) in [LeonStoldt/nordvpn](https://github.com/LeonStoldt/nordvpn)
+3. 💪 Opened PR [#1](https://github.com/LeonStoldt/nordvpn/pull/1) in [LeonStoldt/nordvpn](https://github.com/LeonStoldt/nordvpn)
+4. 💪 Opened PR [#1596](https://github.com/ghostfolio/ghostfolio/pull/1596) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+5. 💪 Opened PR [#1595](https://github.com/ghostfolio/ghostfolio/pull/1595) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 <!--END_SECTION:activity-->
 
 ---
