@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#380](https://github.com/bubuntux/nordvpn/pull/380) in [bubuntux/nordvpn](https://github.com/bubuntux/nordvpn)
-2. 🎉 Merged PR [#1](https://github.com/LeonStoldt/nordvpn/pull/1) in [LeonStoldt/nordvpn](https://github.com/LeonStoldt/nordvpn)
-3. 💪 Opened PR [#1](https://github.com/LeonStoldt/nordvpn/pull/1) in [LeonStoldt/nordvpn](https://github.com/LeonStoldt/nordvpn)
-4. 💪 Opened PR [#1596](https://github.com/ghostfolio/ghostfolio/pull/1596) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-5. 💪 Opened PR [#1595](https://github.com/ghostfolio/ghostfolio/pull/1595) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+1. 💪 Opened PR [#10](https://github.com/SmartPhoneLover/unraid-docker-templates/pull/10) in [SmartPhoneLover/unraid-docker-templates](https://github.com/SmartPhoneLover/unraid-docker-templates)
+2. 💪 Opened PR [#380](https://github.com/bubuntux/nordvpn/pull/380) in [bubuntux/nordvpn](https://github.com/bubuntux/nordvpn)
+3. 🎉 Merged PR [#1](https://github.com/LeonStoldt/nordvpn/pull/1) in [LeonStoldt/nordvpn](https://github.com/LeonStoldt/nordvpn)
+4. 💪 Opened PR [#1](https://github.com/LeonStoldt/nordvpn/pull/1) in [LeonStoldt/nordvpn](https://github.com/LeonStoldt/nordvpn)
+5. 💪 Opened PR [#1596](https://github.com/ghostfolio/ghostfolio/pull/1596) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 <!--END_SECTION:activity-->
 
 ---
