@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1595](https://github.com/ghostfolio/ghostfolio/issues/1595) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-2. 💪 Opened PR [#10](https://github.com/SmartPhoneLover/unraid-docker-templates/pull/10) in [SmartPhoneLover/unraid-docker-templates](https://github.com/SmartPhoneLover/unraid-docker-templates)
-3. 💪 Opened PR [#380](https://github.com/bubuntux/nordvpn/pull/380) in [bubuntux/nordvpn](https://github.com/bubuntux/nordvpn)
-4. 🎉 Merged PR [#1](https://github.com/LeonStoldt/nordvpn/pull/1) in [LeonStoldt/nordvpn](https://github.com/LeonStoldt/nordvpn)
-5. 💪 Opened PR [#1](https://github.com/LeonStoldt/nordvpn/pull/1) in [LeonStoldt/nordvpn](https://github.com/LeonStoldt/nordvpn)
+1. 🗣 Commented on [#1596](https://github.com/ghostfolio/ghostfolio/issues/1596) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. 🗣 Commented on [#1595](https://github.com/ghostfolio/ghostfolio/issues/1595) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+3. 💪 Opened PR [#10](https://github.com/SmartPhoneLover/unraid-docker-templates/pull/10) in [SmartPhoneLover/unraid-docker-templates](https://github.com/SmartPhoneLover/unraid-docker-templates)
+4. 💪 Opened PR [#380](https://github.com/bubuntux/nordvpn/pull/380) in [bubuntux/nordvpn](https://github.com/bubuntux/nordvpn)
+5. 🎉 Merged PR [#1](https://github.com/LeonStoldt/nordvpn/pull/1) in [LeonStoldt/nordvpn](https://github.com/LeonStoldt/nordvpn)
 <!--END_SECTION:activity-->
 
 ---
