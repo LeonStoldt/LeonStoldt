@@ -7,6 +7,7 @@
 - Initialization and Development of the [Ghostfolio Community App](https://unraid.net/community/apps?q=ghostfolio) in the Unraid Community Store
 - Maintaining the Unraid Community App in [Unraid Community Applications](https://github.com/LeonStoldt/Unraid-Community-Applications)
 - Helping out and discussing at the Ghostfolio Support Forum in Unraid: [Community Applications - Ghostfolio](https://forums.unraid.net/topic/123829-support-community-applications-ghostfolio/)
+- Node Upgrade [ref. Release](https://github.com/ghostfolio/ghostfolio/releases/tag/1.230.0)
 - Resolving Issues
 - Discussing Problems
 
@@ -47,3 +48,33 @@
 - Created [Pull Request](https://github.com/Ileriayo/markdown-badges/pull/183) (merged)
 - Created [Pull Request](https://github.com/Ileriayo/markdown-badges/pull/234) (merged)
 - Created [Pull Request](https://github.com/Ileriayo/markdown-badges/pull/369) (merged)
+
+---
+
+<!-- INSERT NORDVPN LOGO HERE -->
+# [NordVPN Docker Client](https://github.com/bubuntux/nordvpn)
+> NordVPN Docker Client
+
+#### Contributions:
+- Created [Pull Request](https://github.com/bubuntux/nordvpn/pull/380)
+
+
+---
+
+<!-- INSERT TERRAFORM LOGO HERE -->
+# [tfvm - Terraform Version Manager](https://github.com/cbuschka/tfvm)
+> Terraform Version Manager - Always the right terraform version for your project
+
+#### Contributions:
+- Created [Pull Request](https://github.com/cbuschka/tfvm/pull/40) - Update to go 1.19
+- Created [Pull Request](https://github.com/cbuschka/tfvm/pull/41) - Updated GH Actions
+
+
+---
+
+<!-- INSERT UNRAID LOGO HERE -->
+# [SmartPhoneLover - Unraid Docker Templates](https://github.com/SmartPhoneLover/unraid-docker-templates)
+> Docker Templates for unRAID.
+
+#### Contributions:
+- Created [Pull Request](https://github.com/SmartPhoneLover/unraid-docker-templates/pull/10)
