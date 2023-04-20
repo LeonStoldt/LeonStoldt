@@ -13,7 +13,7 @@
 
 ---
 
-<!-- INSERT GITHUB LOGO -->
+[![github_logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
 # [GitHub Advanced Security Enablement Tool](https://github.com/NickLiffen/ghas-enablement)
 > A tool that aims to bulk automates the enablement of GitHub Code Scanning, Secret Scanning and Dependabot across multiple repositories.
 
@@ -22,7 +22,7 @@
 
 ---
 
-<!-- INSERT DOCKER COMPOSE LOGO -->
+[![docker_compose_logo](https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png)](https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png)
 # [Docker - Awesome Compose](https://github.com/docker/awesome-compose)
 > Awesome Docker Compose samples
 
@@ -36,7 +36,7 @@
 
 ---
 
-<!-- INSERT MARKDOWN BADGE LOGO -->
+[![markdown_badges_logo](https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/assets/Banner/Markdown-badges-banner-kohasummons.png)](https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/assets/Banner/Markdown-badges-banner-kohasummons.png)
 # [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 > Badges for your personal developer branding, profile, and projects.
 
@@ -51,28 +51,26 @@
 
 ---
 
-<!-- INSERT NORDVPN LOGO HERE -->
+[![nordvpn_logo](https://raw.githubusercontent.com/bubuntux/nordvpn/master/.img/NordVpn_logo.png)](https://raw.githubusercontent.com/bubuntux/nordvpn/master/.img/NordVpn_logo.png)
 # [NordVPN Docker Client](https://github.com/bubuntux/nordvpn)
 > NordVPN Docker Client
 
 #### Contributions:
-- Created [Pull Request](https://github.com/bubuntux/nordvpn/pull/380)
-
+- Created [Pull Request](https://github.com/bubuntux/nordvpn/pull/380) (merged)
 
 ---
 
-<!-- INSERT TERRAFORM LOGO HERE -->
+[![terraform_logo](https://www.hashicorp.com/_next/static/media/color.a2290c13.svg)](https://www.hashicorp.com/_next/static/media/color.a2290c13.svg)
 # [tfvm - Terraform Version Manager](https://github.com/cbuschka/tfvm)
 > Terraform Version Manager - Always the right terraform version for your project
 
 #### Contributions:
-- Created [Pull Request](https://github.com/cbuschka/tfvm/pull/40) - Update to go 1.19
-- Created [Pull Request](https://github.com/cbuschka/tfvm/pull/41) - Updated GH Actions
-
+- Created [Pull Request](https://github.com/cbuschka/tfvm/pull/40) - Update to go 1.19 (merged)
+- Created [Pull Request](https://github.com/cbuschka/tfvm/pull/41) - Updated GH Actions (merged)
 
 ---
 
-<!-- INSERT UNRAID LOGO HERE -->
+[![unraid_logo](https://craftassets.unraid.net/uploads/seo-unraid.png?mtime=20180827134547&focal=none)](https://craftassets.unraid.net/uploads/seo-unraid.png?mtime=20180827134547&focal=none)
 # [SmartPhoneLover - Unraid Docker Templates](https://github.com/SmartPhoneLover/unraid-docker-templates)
 > Docker Templates for unRAID.
 
