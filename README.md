@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#716](https://github.com/onedr0p/flux-cluster-template/issues/716) in [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template)
-2. 🗣 Commented on [#716](https://github.com/onedr0p/flux-cluster-template/issues/716) in [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template)
-3. 🗣 Commented on [#111](https://github.com/GoogleCloudPlatform/cloud-spanner-emulator/issues/111) in [GoogleCloudPlatform/cloud-spanner-emulator](https://github.com/GoogleCloudPlatform/cloud-spanner-emulator)
-4. 🗣 Commented on [#10](https://github.com/SmartPhoneLover/unraid-docker-templates/issues/10) in [SmartPhoneLover/unraid-docker-templates](https://github.com/SmartPhoneLover/unraid-docker-templates)
-5. 🎉 Merged PR [#1](https://github.com/LeonStoldt/nordvpn/pull/1) in [LeonStoldt/nordvpn](https://github.com/LeonStoldt/nordvpn)
+1. 🔒 Closed issue [#2102](https://github.com/ghostfolio/ghostfolio/issues/2102) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. 🗣 Commented on [#2102](https://github.com/ghostfolio/ghostfolio/issues/2102) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+3. ❗ Opened issue [#2102](https://github.com/ghostfolio/ghostfolio/issues/2102) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+4. 🗣 Commented on [#716](https://github.com/onedr0p/flux-cluster-template/issues/716) in [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template)
+5. 🗣 Commented on [#716](https://github.com/onedr0p/flux-cluster-template/issues/716) in [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template)
 <!--END_SECTION:activity-->
 
 ---
