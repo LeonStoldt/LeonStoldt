@@ -148,6 +148,6 @@
 
 
 [xing]: https://www.xing.com/profile/Leon_Stoldt
-[mail]: mailto:contact@leon-stoldt.de
+[mail]: mailto:tech@leon-stoldt.de
 [support]: https://buymeacoffee.com/LeonStoldt
 [github]: https://github.com/LeonStoldt
