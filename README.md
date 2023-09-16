@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/cbuschka/setup-tfvm/issues/13) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
-2. 🔒 Closed issue [#2102](https://github.com/ghostfolio/ghostfolio/issues/2102) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-3. 🗣 Commented on [#2102](https://github.com/ghostfolio/ghostfolio/issues/2102#issuecomment-1606113977) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-4. ❗ Opened issue [#2102](https://github.com/ghostfolio/ghostfolio/issues/2102) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-5. 🗣 Commented on [#716](https://github.com/onedr0p/flux-cluster-template/pull/716#issuecomment-1537496879) in [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template)
+1. 🗣 Commented on [#1596](https://github.com/ghostfolio/ghostfolio/pull/1596#issuecomment-1722244866) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+2. ❗ Opened issue [#13](https://github.com/cbuschka/setup-tfvm/issues/13) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
+3. 🔒 Closed issue [#2102](https://github.com/ghostfolio/ghostfolio/issues/2102) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+4. 🗣 Commented on [#2102](https://github.com/ghostfolio/ghostfolio/issues/2102#issuecomment-1606113977) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+5. ❗ Opened issue [#2102](https://github.com/ghostfolio/ghostfolio/issues/2102) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 <!--END_SECTION:activity-->
 
 ---
