@@ -23,9 +23,9 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1596](https://github.com/ghostfolio/ghostfolio/pull/1596#issuecomment-1722244866) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
-2. ❗ Opened issue [#13](https://github.com/cbuschka/setup-tfvm/issues/13) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
-3. 🔒 Closed issue [#2102](https://github.com/ghostfolio/ghostfolio/issues/2102) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+1. ❗ Opened issue [#1](https://github.com/campfireman/wolkenpinsel/issues/1) in [campfireman/wolkenpinsel](https://github.com/campfireman/wolkenpinsel)
+2. 🗣 Commented on [#1596](https://github.com/ghostfolio/ghostfolio/pull/1596#issuecomment-1722244866) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
+3. ❗ Opened issue [#13](https://github.com/cbuschka/setup-tfvm/issues/13) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
 4. 🗣 Commented on [#2102](https://github.com/ghostfolio/ghostfolio/issues/2102#issuecomment-1606113977) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 5. ❗ Opened issue [#2102](https://github.com/ghostfolio/ghostfolio/issues/2102) in [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)
 <!--END_SECTION:activity-->
