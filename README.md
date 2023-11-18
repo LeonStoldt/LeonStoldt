@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/LeonStoldt/ghostfolio-installer/pull/10) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-2. 🗣 Commented on [#9](https://github.com/LeonStoldt/ghostfolio-installer/issues/9#issuecomment-1813173940) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-3. 🎉 Merged PR [#2](https://github.com/LeonStoldt/ghostfolio-installer/pull/2) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-4. 🎉 Merged PR [#1](https://github.com/LeonStoldt/ghostfolio-installer/pull/1) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-5. ❗ Opened issue [#1](https://github.com/campfireman/wolkenpinsel/issues/1) in [campfireman/wolkenpinsel](https://github.com/campfireman/wolkenpinsel)
+1. 🗣 Commented on [#9](https://github.com/LeonStoldt/ghostfolio-installer/issues/9#issuecomment-1817315512) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+2. 🎉 Merged PR [#10](https://github.com/LeonStoldt/ghostfolio-installer/pull/10) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+3. 💪 Opened PR [#10](https://github.com/LeonStoldt/ghostfolio-installer/pull/10) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+4. 🗣 Commented on [#9](https://github.com/LeonStoldt/ghostfolio-installer/issues/9#issuecomment-1813173940) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+5. 🎉 Merged PR [#2](https://github.com/LeonStoldt/ghostfolio-installer/pull/2) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 <!--END_SECTION:activity-->
 
 ---
