@@ -76,3 +76,13 @@
 
 #### Contributions:
 - Created [Pull Request](https://github.com/SmartPhoneLover/unraid-docker-templates/pull/10)
+
+---
+
+# [flux-cluster-template](https://github.com/onedr0p/flux-cluster-template)
+> A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
+
+#### Contributions:
+- Discussed and added [task](https://github.com/onedr0p/flux-cluster-template/discussions/838#discussioncomment-7709440) ([commit](https://github.com/onedr0p/flux-cluster-template/commit/c749ff8f902d1745da07a9657474748fbb5b8d75))
+
+---
