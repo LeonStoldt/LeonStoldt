@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/LeonStoldt/ghostfolio-installer/pull/16) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-2. 🎉 Merged PR [#15](https://github.com/LeonStoldt/ghostfolio-installer/pull/15) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-3. ❗ Opened issue [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-4. ❗ Opened issue [#13](https://github.com/LeonStoldt/ghostfolio-installer/issues/13) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-5. 🎉 Merged PR [#12](https://github.com/LeonStoldt/ghostfolio-installer/pull/12) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+1. 💪 Opened PR [#14](https://github.com/cbuschka/setup-tfvm/pull/14) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
+2. 🎉 Merged PR [#16](https://github.com/LeonStoldt/ghostfolio-installer/pull/16) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+3. 🎉 Merged PR [#15](https://github.com/LeonStoldt/ghostfolio-installer/pull/15) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+4. ❗ Opened issue [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+5. ❗ Opened issue [#13](https://github.com/LeonStoldt/ghostfolio-installer/issues/13) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 <!--END_SECTION:activity-->
 
 ---
