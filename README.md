@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/LeonStoldt/setup-tfvm/pull/1) in [LeonStoldt/setup-tfvm](https://github.com/LeonStoldt/setup-tfvm)
-2. 🎉 Merged PR [#1](https://github.com/LeonStoldt/tfvm/pull/1) in [LeonStoldt/tfvm](https://github.com/LeonStoldt/tfvm)
-3. 💪 Opened PR [#14](https://github.com/cbuschka/setup-tfvm/pull/14) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
-4. 🎉 Merged PR [#16](https://github.com/LeonStoldt/ghostfolio-installer/pull/16) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-5. 🎉 Merged PR [#15](https://github.com/LeonStoldt/ghostfolio-installer/pull/15) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+1. 🎉 Merged PR [#18](https://github.com/cbuschka/setup-tfvm/pull/18) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
+2. 💪 Opened PR [#18](https://github.com/cbuschka/setup-tfvm/pull/18) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
+3. 🎉 Merged PR [#15](https://github.com/cbuschka/setup-tfvm/pull/15) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
+4. 🗣 Commented on [#1](https://github.com/cbuschka/setup-tfvm/pull/1#issuecomment-2039945918) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
+5. ❌ Closed PR [#1](https://github.com/cbuschka/setup-tfvm/pull/1) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
 <!--END_SECTION:activity-->
 
 ---
