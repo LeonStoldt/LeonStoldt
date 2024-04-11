@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/willhallonline/docker-ansible/pull/77#issuecomment-2041073956) in [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible)
-2. 💪 Opened PR [#77](https://github.com/willhallonline/docker-ansible/pull/77) in [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible)
-3. 🎉 Merged PR [#18](https://github.com/cbuschka/setup-tfvm/pull/18) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
-4. 💪 Opened PR [#18](https://github.com/cbuschka/setup-tfvm/pull/18) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
-5. 🎉 Merged PR [#15](https://github.com/cbuschka/setup-tfvm/pull/15) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
+1. 🎉 Merged PR [#17](https://github.com/LeonStoldt/ghostfolio-installer/pull/17) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+2. 🗣 Commented on [#77](https://github.com/willhallonline/docker-ansible/pull/77#issuecomment-2041073956) in [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible)
+3. 💪 Opened PR [#77](https://github.com/willhallonline/docker-ansible/pull/77) in [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible)
+4. 🎉 Merged PR [#18](https://github.com/cbuschka/setup-tfvm/pull/18) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
+5. 💪 Opened PR [#18](https://github.com/cbuschka/setup-tfvm/pull/18) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
 <!--END_SECTION:activity-->
 
 ---
