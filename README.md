@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/LeonStoldt/ghostfolio-installer/pull/17) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-2. 🗣 Commented on [#77](https://github.com/willhallonline/docker-ansible/pull/77#issuecomment-2041073956) in [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible)
-3. 💪 Opened PR [#77](https://github.com/willhallonline/docker-ansible/pull/77) in [willhallonline/docker-ansible](https://github.com/willhallonline/docker-ansible)
-4. 🎉 Merged PR [#18](https://github.com/cbuschka/setup-tfvm/pull/18) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
-5. 💪 Opened PR [#18](https://github.com/cbuschka/setup-tfvm/pull/18) in [cbuschka/setup-tfvm](https://github.com/cbuschka/setup-tfvm)
+1. 🗣 Commented on [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14#issuecomment-2081509255) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+2. 🔒 Closed issue [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+3. 🗣 Commented on [#13](https://github.com/LeonStoldt/ghostfolio-installer/issues/13#issuecomment-2081509057) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+4. 🔒 Closed issue [#13](https://github.com/LeonStoldt/ghostfolio-installer/issues/13) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+5. 💪 Opened PR [#49](https://github.com/cbuschka/tfvm/pull/49) in [cbuschka/tfvm](https://github.com/cbuschka/tfvm)
 <!--END_SECTION:activity-->
 
 ---
