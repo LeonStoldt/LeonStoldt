@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14#issuecomment-2081509255) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-2. 🔒 Closed issue [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-3. 🗣 Commented on [#13](https://github.com/LeonStoldt/ghostfolio-installer/issues/13#issuecomment-2081509057) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-4. 🔒 Closed issue [#13](https://github.com/LeonStoldt/ghostfolio-installer/issues/13) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-5. 💪 Opened PR [#49](https://github.com/cbuschka/tfvm/pull/49) in [cbuschka/tfvm](https://github.com/cbuschka/tfvm)
+1. ❗ Opened issue [#18](https://github.com/LeonStoldt/ghostfolio-installer/issues/18) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+2. 🗣 Commented on [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14#issuecomment-2081509255) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+3. 🔒 Closed issue [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+4. 🗣 Commented on [#13](https://github.com/LeonStoldt/ghostfolio-installer/issues/13#issuecomment-2081509057) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+5. 🔒 Closed issue [#13](https://github.com/LeonStoldt/ghostfolio-installer/issues/13) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 <!--END_SECTION:activity-->
 
 ---
