@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer/pull/2) in [LeonStoldt/GCP_Professional_Cloud_Developer](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer)
-2. ❗ Opened issue [#18](https://github.com/LeonStoldt/ghostfolio-installer/issues/18) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-3. 🗣 Commented on [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14#issuecomment-2081509255) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-4. 🔒 Closed issue [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-5. 🗣 Commented on [#13](https://github.com/LeonStoldt/ghostfolio-installer/issues/13#issuecomment-2081509057) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+1. ❌ Closed PR [#1](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer/pull/1) in [LeonStoldt/GCP_Professional_Cloud_Developer](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer)
+2. 🎉 Merged PR [#2](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer/pull/2) in [LeonStoldt/GCP_Professional_Cloud_Developer](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer)
+3. ❗ Opened issue [#18](https://github.com/LeonStoldt/ghostfolio-installer/issues/18) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+4. 🗣 Commented on [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14#issuecomment-2081509255) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+5. 🔒 Closed issue [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 <!--END_SECTION:activity-->
 
 ---
