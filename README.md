@@ -23,11 +23,11 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#555](https://github.com/nextcloud/user_oidc/issues/555#issuecomment-2120782826) in [nextcloud/user_oidc](https://github.com/nextcloud/user_oidc)
-2. ❌ Closed PR [#1](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer/pull/1) in [LeonStoldt/GCP_Professional_Cloud_Developer](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer)
-3. 🎉 Merged PR [#2](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer/pull/2) in [LeonStoldt/GCP_Professional_Cloud_Developer](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer)
-4. ❗ Opened issue [#18](https://github.com/LeonStoldt/ghostfolio-installer/issues/18) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-5. 🗣 Commented on [#14](https://github.com/LeonStoldt/ghostfolio-installer/issues/14#issuecomment-2081509255) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+1. 🚀 Published release [1.0.0](https://github.com/tamingj/q4c/releases/tag/1.0.0) in [tamingj/q4c](https://github.com/tamingj/q4c)
+2. 🗣 Commented on [#555](https://github.com/nextcloud/user_oidc/issues/555#issuecomment-2120782826) in [nextcloud/user_oidc](https://github.com/nextcloud/user_oidc)
+3. ❌ Closed PR [#1](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer/pull/1) in [LeonStoldt/GCP_Professional_Cloud_Developer](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer)
+4. 🎉 Merged PR [#2](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer/pull/2) in [LeonStoldt/GCP_Professional_Cloud_Developer](https://github.com/LeonStoldt/GCP_Professional_Cloud_Developer)
+5. ❗ Opened issue [#18](https://github.com/LeonStoldt/ghostfolio-installer/issues/18) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 <!--END_SECTION:activity-->
 
 ---
