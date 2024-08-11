@@ -7,6 +7,7 @@
 - Initialization and Development of the [Ghostfolio Community App](https://unraid.net/community/apps?q=ghostfolio) in the Unraid Community Store
 - Maintaining the Unraid Community App in [Unraid Community Applications](https://github.com/LeonStoldt/Unraid-Community-Applications)
 - Helping out and discussing at the Ghostfolio Support Forum in Unraid: [Community Applications - Ghostfolio](https://forums.unraid.net/topic/123829-support-community-applications-ghostfolio/)
+- Created Ghostfolio ansible docker setup for easy installation: [ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 - Node Upgrade [ref. Release](https://github.com/ghostfolio/ghostfolio/releases/tag/1.230.0)
 - Resolving Issues
 - Discussing Problems
@@ -67,6 +68,8 @@
 #### Contributions:
 - Created [Pull Request](https://github.com/cbuschka/tfvm/pull/40) - Update to go 1.19 (merged)
 - Created [Pull Request](https://github.com/cbuschka/tfvm/pull/41) - Updated GH Actions (merged)
+- Created [Pull Request](https://github.com/cbuschka/tfvm/pull/49) - Update to go 1.22 (merged)
+- Created [Pull Request](https://github.com/cbuschka/tfvm/pull/48) - Updated GH Actions (merged)
 
 ---
 
@@ -75,7 +78,7 @@
 > Docker Templates for unRAID.
 
 #### Contributions:
-- Created [Pull Request](https://github.com/SmartPhoneLover/unraid-docker-templates/pull/10)
+- Created [Pull Request](https://github.com/SmartPhoneLover/unraid-docker-templates/pull/10) (repository was deleted)
 
 ---
 
@@ -84,5 +87,23 @@
 
 #### Contributions:
 - Discussed and added [task](https://github.com/onedr0p/flux-cluster-template/discussions/838#discussioncomment-7709440) ([commit](https://github.com/onedr0p/flux-cluster-template/commit/c749ff8f902d1745da07a9657474748fbb5b8d75))
+
+---
+
+[![nextcloud_logo](https://avatars.githubusercontent.com/u/19211038?s=200&v=4)](https://avatars.githubusercontent.com/u/19211038?s=200&v=4)
+# [Nextcloud](https://github.com/nextcloud/user_oidc)
+> Nextcloud - OIDC connect user backend for Nextcloud
+
+#### Contributions:
+- Contributed to an [issue](https://github.com/nextcloud/user_oidc/issues/555#issuecomment-2120782826)
+
+---
+
+[![tamingj_logo](https://avatars.githubusercontent.com/u/32310446?s=200&v=4)](https://avatars.githubusercontent.com/u/32310446?s=200&v=4)
+# [tamingj - Helpers for taming java](https://github.com/tamingj)
+> Initialized new Project called "tamingj - Helpers for taming java"
+
+#### Contributions:
+- Initialized and created [q4c - queries for collections](https://github.com/tamingj/q4c) and published artifact to official maven central
 
 ---
