@@ -23,10 +23,10 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#83](https://github.com/icons-pack/svelte-simple-icons/issues/83) in [icons-pack/svelte-simple-icons](https://github.com/icons-pack/svelte-simple-icons)
-2. ❗ Opened issue [#21](https://github.com/LeonStoldt/ghostfolio-installer/issues/21) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-3. 🎉 Merged PR [#20](https://github.com/LeonStoldt/ghostfolio-installer/pull/20) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-4. 🎉 Merged PR [#19](https://github.com/LeonStoldt/ghostfolio-installer/pull/19) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+1. 🎉 Merged PR [#22](https://github.com/LeonStoldt/ghostfolio-installer/pull/22) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+2. ❗ Opened issue [#83](https://github.com/icons-pack/svelte-simple-icons/issues/83) in [icons-pack/svelte-simple-icons](https://github.com/icons-pack/svelte-simple-icons)
+3. ❗ Opened issue [#21](https://github.com/LeonStoldt/ghostfolio-installer/issues/21) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+4. 🎉 Merged PR [#20](https://github.com/LeonStoldt/ghostfolio-installer/pull/20) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 5. 🚀 Published release [1.0.0](https://github.com/tamingj/q4c/releases/tag/1.0.0) in [tamingj/q4c](https://github.com/tamingj/q4c)
 <!--END_SECTION:activity-->
 
