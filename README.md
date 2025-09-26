@@ -23,10 +23,10 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/LeonStoldt/ghostfolio-installer/pull/23) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-2. 🎉 Merged PR [#24](https://github.com/LeonStoldt/ghostfolio-installer/pull/24) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-3. 🎉 Merged PR [#25](https://github.com/LeonStoldt/ghostfolio-installer/pull/25) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
-4. ❗ Opened issue [#83](https://github.com/icons-pack/svelte-simple-icons/issues/83) in [icons-pack/svelte-simple-icons](https://github.com/icons-pack/svelte-simple-icons)
+1. 💪 Opened PR [#517](https://github.com/google-github-actions/auth/pull/517) in [google-github-actions/auth](https://github.com/google-github-actions/auth)
+2. 🎉 Merged PR [#23](https://github.com/LeonStoldt/ghostfolio-installer/pull/23) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+3. 🎉 Merged PR [#24](https://github.com/LeonStoldt/ghostfolio-installer/pull/24) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+4. 🎉 Merged PR [#25](https://github.com/LeonStoldt/ghostfolio-installer/pull/25) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 5. ❗ Opened issue [#21](https://github.com/LeonStoldt/ghostfolio-installer/issues/21) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 <!--END_SECTION:activity-->
 
