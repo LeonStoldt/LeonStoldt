@@ -23,7 +23,7 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#517](https://github.com/google-github-actions/auth/pull/517) in [google-github-actions/auth](https://github.com/google-github-actions/auth)
+1. 💪 Opened PR [#517](undefined) in [google-github-actions/auth](https://github.com/google-github-actions/auth)
 2. 🎉 Merged PR [#23](https://github.com/LeonStoldt/ghostfolio-installer/pull/23) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 3. 🎉 Merged PR [#24](https://github.com/LeonStoldt/ghostfolio-installer/pull/24) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 4. 🎉 Merged PR [#25](https://github.com/LeonStoldt/ghostfolio-installer/pull/25) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
