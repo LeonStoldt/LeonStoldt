@@ -23,8 +23,8 @@
 ### Recent activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#517](undefined) in [google-github-actions/auth](https://github.com/google-github-actions/auth)
-2. 🎉 Merged PR [#23](https://github.com/LeonStoldt/ghostfolio-installer/pull/23) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
+1. ℹ️ Assigned issue [#36](https://github.com/gcstr/dockform/issues/36) in [gcstr/dockform](https://github.com/gcstr/dockform)
+2. ❗ Opened issue [#36](https://github.com/gcstr/dockform/issues/36) in [gcstr/dockform](https://github.com/gcstr/dockform)
 3. 🎉 Merged PR [#24](https://github.com/LeonStoldt/ghostfolio-installer/pull/24) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 4. 🎉 Merged PR [#25](https://github.com/LeonStoldt/ghostfolio-installer/pull/25) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
 5. ❗ Opened issue [#21](https://github.com/LeonStoldt/ghostfolio-installer/issues/21) in [LeonStoldt/ghostfolio-installer](https://github.com/LeonStoldt/ghostfolio-installer)
