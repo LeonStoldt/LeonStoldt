@@ -1,6 +1,6 @@
 ### Hi there, I'm Leon
 
-> #### German Software Engineer
+> #### Senior Software Engineer from Germany
 
 - 🔭 I’m currently working on my home lab and expanding my selfhosted services
 - 🌱 I’m currently learning a lot about hosting and security
